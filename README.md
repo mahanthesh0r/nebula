@@ -3,7 +3,9 @@ High altitude balloon project
 
 ###### Version 2 
 
-<img src="Images/Cubesat%20Parts(V2).jpg" alt="3D printed parts" width="400" height="300"/>
+<img src="Images/Cubesat%20Parts(V2).jpg" alt="3D printed parts" width="400" height="300"/>.  
+
+<img src="Images/v2cube.jpg" alt="3D printed parts" width="400" height="350"/>
 
 ###### Version 1
 <img src="Images/V1%20nebula.jpeg" alt="Version 1" width="400" height="400"/>
